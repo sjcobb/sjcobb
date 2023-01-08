@@ -1,6 +1,6 @@
 <h3>Projects</h3>
 
-<p><a target="_blank" href="https://github.com/perses/perses">Perses</a>: dashboards / data visualization solution for Prometheus</p>
+<p><a target="_blank" href="https://github.com/perses/perses">Perses</a>: dashboards / data visualization solution for Prometheus (<a target="_blank" href="https://github.com/sjcobb/perses-embed-example">embedded dashboard ex app</a>)</p>
 <p><a target="_blank" href="https://youtube.com/playlist?list=PLwZyryoAllOPQH2zBI2bnDrm-zGl_nYL1">Data viz / WebXR demo videos</a> (Repos: <a target="_blank" href="https://github.com/sjcobb/music360js">music360js</a>, <a target="_blank" href="https://github.com/sjcobb/three-earthquake">three-earthquake</a>, <a target="_blank" href="https://github.com/sjcobb/webxr-threejs-midi-visualizer">webxr-threejs-midi-visualizer</a>, <a target="_blank" href="https://github.com/sjcobb/echarts-circle-of-fifths">echarts-circle-of-fifths</a>)</p>
 
 <p><a target="_blank" href="https://youtube.com/playlist?list=PLwZyryoAllOMK3B9d0uekR7mSuckJLcPI">AI music demo videos</a> (Repo: <a target="_blank" href="https://github.com/sjcobb/ai-duet-3d">ai-duet-3d</a>)</p>
